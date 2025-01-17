@@ -3,3 +3,5 @@
 
 
 Welcome to Technical Tutorials, hosted by Jacqui Kane(tjkane@purdue.edu)
+
+This registry contain tutorials for courses offered at Purdue University, Indianapolis. The intent is for these tutorials to be used as a resource to demonstrate course content , create live reminders about content, and prepare our students for technical interviews. We hope that the content of the tutorials is used to create building block deliverables, which in turn can be used to inform independent projects, and fuel creativity. 
